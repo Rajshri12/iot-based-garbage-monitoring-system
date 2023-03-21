@@ -16,9 +16,9 @@ pinMode(buzzer, OUTPUT);
 
 pinMode(trigPin, OUTPUT);
 
-pinMode(echoPin, INPUT);}
+pinMode(echoPin, INPUT);
 
-// put your setup code here, to run once:
+}
 
 void loop() {
 
